@@ -13,7 +13,7 @@ from email.header import Header
 
 
 mysuite=unittest.TestSuite()
-mysuite.addTest(unittest.makeSuite(tryreport2.Baidu))
+mysuite.addTest(unittest.makeSuite(trybaidu.Baidu))
 mysuite.addTest(unittest.makeSuite(tryTestfan.Testfan))
 
 
