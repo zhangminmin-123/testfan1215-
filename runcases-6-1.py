@@ -1,6 +1,6 @@
 
 import unittest
-from mytestcases import tryreport2
+from mytestcases import trybaidu
 from mytestcases import tryTestfan
 import HTMLTestRunner
 from time import sleep
